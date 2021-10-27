@@ -1,0 +1,16 @@
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\obj\Debug\net5.0\Calculator.csprojAssemblyReference.cache
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\stud\git\pr\AppsForStudents-main\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
