@@ -1,0 +1,16 @@
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\obj\Debug\net5.0\Tamagotchi.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\obj\Debug\net5.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\obj\Debug\net5.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\obj\Debug\net5.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\obj\Debug\net5.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\bin\Debug\net5.0\Tamagotchi.exe
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\bin\Debug\net5.0\Tamagotchi.deps.json
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\bin\Debug\net5.0\Tamagotchi.runtimeconfig.json
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\bin\Debug\net5.0\Tamagotchi.runtimeconfig.dev.json
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\bin\Debug\net5.0\Tamagotchi.dll
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\bin\Debug\net5.0\ref\Tamagotchi.dll
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\bin\Debug\net5.0\Tamagotchi.pdb
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\obj\Debug\net5.0\Tamagotchi.dll
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\obj\Debug\net5.0\ref\Tamagotchi.dll
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\obj\Debug\net5.0\Tamagotchi.pdb
+C:\Users\stud\source\repos\3232-main\AppsForStudents-main\Tamagotchi\obj\Debug\net5.0\Tamagotchi.genruntimeconfig.cache
